@@ -32,8 +32,12 @@ The system supports **patients, doctors, and admins**, each with dedicated funct
 ✔ Admin users **can never be disabled**  
 ✔ Deactivated users see — **“Account Deactivated. Contact Admin.”**
 
-### ✉ Email Simulation
-Instead of real emails, notifications are printed into console logs.
+
+# Threads:
+
+✔ Email simulation using Thread
+✔ JDBC Transaction Handling (appointments + medical record)
+✔ Background execution without blocking UI
 
 ---
 
@@ -108,13 +112,33 @@ Start Tomcat and open:
 
 http://localhost:8080/OnlineHealthcareManagementSystem/login.jsp
 # 📸 Screenshots:
-Login
+<img width="1440" height="900" alt="Screenshot 2025-12-27 at 9 31 20 PM" src="https://github.com/user-attachments/assets/ef884e6c-5f30-4ffd-950e-73e22ec500cb" />
 
-Patient Dashboard
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/2889f9a4-afc0-4836-b0aa-e5a9b7fb0814" />
 
-Doctor Dashboard
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4c2852bc-163d-49c5-9859-76e737e3f355" />
 
-Admin Dashboard
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e59c817d-c2ef-4d2e-8ece-a7344c22c8ed" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0c5f1b23-ab5b-4a74-86e8-80530be0f069" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/bd20da06-9a40-46bc-91ef-453706632f19" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/87e06fcf-179f-4bac-afac-56343c8e4a70" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/20a8811d-056f-4fa9-a113-d488d2c81f32" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ff967756-bd94-4e9f-8573-2c85322f88b1" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/cb72bb4d-3b3c-41bb-bafa-472d88019ef5" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fe7dcd43-92b1-44e1-84e8-13f944753c03" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/43feacf7-655a-48bb-9acc-6a85aa2d6271" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6309d71a-0729-4c7c-a70d-4d7fbf0845ae" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d3915ddb-31a3-4cde-84f1-2336dac75b3f" />
 
 
 # Credits
