@@ -118,6 +118,9 @@ http://localhost:8080/OnlineHealthcareManagementSystem/login.jsp
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4c2852bc-163d-49c5-9859-76e737e3f355" />
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/c9746083-8d68-40ff-ba52-ee845fedfad9" />
+
+
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e59c817d-c2ef-4d2e-8ece-a7344c22c8ed" />
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0c5f1b23-ab5b-4a74-86e8-80530be0f069" />
